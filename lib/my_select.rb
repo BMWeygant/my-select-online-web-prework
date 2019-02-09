@@ -5,5 +5,6 @@ while array.length > i
   yield(array[i])
   my_selection << array[i]
 end
+end
   i = i + 1
 end
